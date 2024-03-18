@@ -9,8 +9,8 @@ env:
   ###############################################
   ### Replace <username> with GitHub username ###
   ###############################################
-  DOCKER_IMAGE_NAME: simonwestra@hotmail.com-azure-ttt
-  AZURE_WEBAPP_NAME: simonwestra@hotmail.com-ttt-app
+  DOCKER_IMAGE_NAME: simsalabim987-azure-ttt
+  AZURE_WEBAPP_NAME: simsalabim987-ttt-app
   ###############################################
 
 jobs:
